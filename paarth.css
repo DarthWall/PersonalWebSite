@@ -1,0 +1,15 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+    background:url("../images/GdqL8c.gif");
+    background-size: cover;
+    color:#fff;
+}
+.body{
+    height:88vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.msg{
+    text-align:right;
+}
